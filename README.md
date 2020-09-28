@@ -2,7 +2,7 @@
 Website for Godfrey Global Solutions
 
 ## RPM Yamaha Guam Website
-![Yamaha Logo](/img/logos/GGB-TRANSPARENT-WHITE.jpg )
+![GGS Logo](/img/logos/GGS-TRANSPARENT-WHITE.jpg )
 
 # Description
 ## The website for Godfrey Global Solutions
